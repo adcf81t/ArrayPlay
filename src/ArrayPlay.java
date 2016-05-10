@@ -208,7 +208,7 @@ public class ArrayPlay {
 		arrayPlayAdvanced.printArray();
 		System.out.println("Add Number {2,4,5,65,23,34,43,53,56,111,3,9,69,96} in the array (as many as can fit in the array) ...");
 		arrayPlayAdvanced.add(new int[]{2,4,5,65,23,34,43,53,56,111,3,9,69,96});
-		System.out.println("Print Array after adding above Number(s) in the array...");
+		System.out.println("Print Array after adding above Number(s) in the array....");
 		arrayPlayAdvanced.printArray();
 	}
 }
